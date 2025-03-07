@@ -1,0 +1,5 @@
+boto3
+requests
+pandas
+fuzzywuzzy
+python-Levenshtein  # optional but speeds up fuzzywuzzy
